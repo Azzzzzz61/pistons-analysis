@@ -22,3 +22,15 @@
 1. Cade Cunningham得分最高（26.1分），但效率中等（eFG% 0.469）
 2. Jalen Duren效率最高（eFG% 0.692），但出手少（11.8分）
 3. 球队整体效率偏低，大部分球员eFG%低于0.6
+
+## 数据来源
+
+- 数据：[Basketball Reference](https://www.basketball-reference.com/teams/DET/2025.html)
+- 时间：2024-25赛季常规赛
+- 球员数量：21人
+
+## 文件说明
+
+- `pistons_analysis.ipynb` - 主分析文件，包含完整代码和分析过程
+- `pistons.csv` - 原始数据
+- `chart.png` - 散点图：得分vs效率 
